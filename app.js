@@ -1,3 +1,4 @@
+// Had to reference solution code for most of this.
 const filterOutOdds = (...args) => args.filter((num) => num % 2 === 0);
 
 const findMin = (...args) => Math.min(...args);
